@@ -14,4 +14,4 @@
   * 補足資料の図を作成するために用いたコード．VASTとFishStatsUtilsでは書けないような図もggplot2を使って作成している．
 
 ## 参考文献
-令和元 (2019) 年度ゴマサバ太平洋系群の資源評価（アップ待ち）http://abchan.fra.go.jp/digests2019/index.html
+[令和元 (2019) 年度ゴマサバ太平洋系群の資源評価](http://abchan.fra.go.jp/digests2019/index.html) （アップ待ち）
