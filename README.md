@@ -12,3 +12,7 @@
   * vastのコード．catchability covariateや年と月の交互作用の入れ方の参考に
 * figures.R
   * 補足資料の図を作成するために用いたコード．VASTとFishStatsUtilsでは書けないような図もggplot2を使って作成している．
+
+## 参考文献
+令和元 (2019) 年度ゴマサバ太平洋系群の資源評価（アップ待ち）http://abchan.fra.go.jp/digests2019/index.html
+* モデルについても和文で記述されている
