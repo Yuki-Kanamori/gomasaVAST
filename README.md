@@ -14,5 +14,5 @@
   * 補足資料の図を作成するために用いたコード．VASTとFishStatsUtilsでは書けないような図もggplot2を使って作成している．
 
 ## 参考文献 
-Y Kanamori, S Nishijima, H Okamura, R Yukami, M Watai, A Takasuka (2021) Spatio-temporal model reduces species misidentification bias of spawning eggs in stock assessment of spotted mackerel in the western North Pacific. [Fish Res 236:105825](https://www.sciencedirect.com/science/article/pii/S0165783620303428)  
-[令和元 (2019) 年度ゴマサバ太平洋系群の資源評価](http://www.fra.affrc.go.jp/shigen_hyoka/SCmeeting/2019-1/detail_goma_p_2.pdf) 
+* Y Kanamori, S Nishijima, H Okamura, R Yukami, M Watai, A Takasuka (2021) Spatio-temporal model reduces species misidentification bias of spawning eggs in stock assessment of spotted mackerel in the western North Pacific. [Fish Res 236:105825](https://www.sciencedirect.com/science/article/pii/S0165783620303428)  
+* [令和元 (2019) 年度ゴマサバ太平洋系群の資源評価](http://www.fra.affrc.go.jp/shigen_hyoka/SCmeeting/2019-1/detail_goma_p_2.pdf) 
